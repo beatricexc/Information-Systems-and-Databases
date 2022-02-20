@@ -1,18 +1,17 @@
 # Information-Systems-and-Databases
 
- 
-
-INFORMATION SYSTEMS AND DATABASES  
+ INFORMATION SYSTEMS AND DATABASES  
 
 Week 1: Lec 1  
 
-Data Base Approach  
+**Data Base Approach ** 
 
 Data Definition Language (DDL) - specification of data types, structures, constraints 
 
 Data Manipulation Language (DML) - enquiry facility (query) for retrieving data 
 
- 		Data CONTROL Language (DCL) - grants users' access and privileges to the database						-controlled access to the database including 
+ 		Data CONTROL Language (DCL) - grants users' access and privileges to the database						
+		-controlled access to the database including 
 
 - A security system  
 
