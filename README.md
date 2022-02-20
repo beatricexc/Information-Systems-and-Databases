@@ -60,7 +60,8 @@ The Relational Model
 
  
 
- 
+![image](https://user-images.githubusercontent.com/72341578/154869330-969a5011-0996-461e-b428-aaa844bb714b.png)
+
 
 Structure: Relations (table) 
 
