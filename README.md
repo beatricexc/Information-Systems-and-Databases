@@ -40,11 +40,6 @@ External Level – physical view of the database – describes how the data is s
 
  
 
- 
-
- 
-
- 
 
 Data Independence  
 
@@ -77,9 +72,10 @@ Degree – the number of attributes it contains
 
 Cardinality – the number of tuples it contains 
 
- 
+ ![image](https://user-images.githubusercontent.com/72341578/154869421-4c522f15-f76b-4593-9466-4c4d955fb6da.png)
 
-Behavior: Integrity (how a relations (tables) behave- the rules they must follow  
+
+**Behavior**: Integrity (how a relations (tables) behave- the rules they must follow  
 
 2 Basic Rules:  
 
@@ -103,17 +99,16 @@ Behavior: Integrity (how a relations (tables) behave- the rules they must follow
 
 Manipulation: Relational algebra  
 
-4 traditional ‘set theory’ operations  
+**4** traditional **‘set theory’** operations:  
 
-- UNION | INTERESECT | DIFFERENCE – they work only on two union compatible relations (must have the same number of columns)  
+- **UNION | INTERESECT | DIFFERENCE** – they work only on two union compatible relations (must have the same number of columns)  
 
 	 
+![image](https://user-images.githubusercontent.com/72341578/154869497-b1c3292a-7c25-4d69-8e41-3c8a3cba81ca.png)
 
- 
+![image](https://user-images.githubusercontent.com/72341578/154869549-c4bec6cf-8eb4-43d3-ac51-bb30106e0e49.png)
 
- 
 
- 
 
 4 additional special relational ops  
 
